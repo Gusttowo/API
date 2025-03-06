@@ -16,8 +16,8 @@ Asegúrate de tener instalados los siguientes programas:
 
 1. Clona este repositorio:
 
-git clone https://github.com/Gusttowo/API.git
-cd API
+- git clone https://github.com/Gusttowo/API.git
+- cd API
 
 2. Crea un entorno virtual y actívalo:
 
