@@ -1,0 +1,38 @@
+# Ignorar entorno virtual
+venv/
+Venv/
+ENV/
+env/
+
+# Archivos de configuración de entorno
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+**/__pycache__
+
+# Configuración de IDEs y editores
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Dependencias instaladas
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Archivos de bases de datos locales
+*.db
+*.sqlite3
+
+# Archivos de logs
+logs/
+*.log
+
+# Ignorar archivos de sistema de Windows
+Thumbs.db
+Desktop.ini
