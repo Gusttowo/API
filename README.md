@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 - Agrega las variables `MONGO_URI`, `EMAIL_USER` y `EMAIL_PASSWORD`
 
-1. Configuración de la Base de Datos
+5. Configuración de la Base de Datos
 
 Para esta api se usa un servicio en MongoDB Atlas. Por lo que se configura la siguiente variable:
 
